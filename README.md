@@ -4,12 +4,13 @@
 
 ## 📄 Usage
 
-1. Generate a dataset like the one found in `data/input` with around 20 images with the following typology (this dataset must contain square images of `512x512` pixels):
+1. Generate a dataset like the one found in `data/input/[token_name]` with around 20 images with the following typology (this dataset must contain square images of `512x512` pixels):
     ```text
     60% of foreground images of you
     30% of half body images of you
     10% of full body images of you
     ```
+   In my scenario, I have used input photos from me for my own token and also from my own dog to test how it works with a no-person.
 
 2. Access the [Google Colab notebook](https://colab.research.google.com/drive/1-HIbslQd7Ei_mAt25ipqSUMvbe3POm98?usp=sharing) and follow the instructions for training your model (you can find a copy under [`docs/fast_dreambooth__dotCSV__version.ipynb`](docs/fast_dreambooth__dotCSV__version.ipynb) file).
 
@@ -55,7 +56,11 @@ Training_Steps: 1600
 Seed: 75576
 ```
 
+The only difference is that I used `Subject_Type: dog` for the `caosdelola` use case, which is the token name of my dog.
+
 ## ☑️ Results
+
+### 🧑🏻‍💻 My Personal Token
 
 Here are some of the results I got from the model with the used `prompt` and `cfg_scale`:
 
