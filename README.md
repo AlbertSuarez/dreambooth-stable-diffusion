@@ -37,3 +37,30 @@
    4.5. Will start the app on [`http://localhost:7860/`](http://localhost:7860/).
 
 5. Enjoy! 🎉
+
+## Training details
+
+For the training, I used the default parameters from the [dotCSV video tutorial](https://www.youtube.com/watch?v=rgKBjRLvjLs), which are the following:
+
+```text
+Training_Subject: Character
+With_Prior_Preservation: Yes
+Captionned_Instance_Images: False
+Subject_Type: person
+Instance_Name: suaresito
+Number_Of_Subject_Images: 500
+Dataset: person_ddim
+fp16: True
+Training_Steps: 1600
+Seed: 75576
+```
+
+## Results
+
+Here are some of the results I got from the model with the used `prompt` and `cfg_scale`:
+
+<p align="center">
+   <img alt="Output 1" src="data/output/output__1.png" width="33%"/>
+   <center><i>Highly detailed portrait of suaresito, stephen bliss, unreal engine, fantasy art by greg rutkowski, loish, rhads, ferdinand knab, makoto shinkai and lois van baarle, ilya kuvshinov, rossdraws, tom bagshaw, alphonse mucha, global illumination, radiant light, detailed and intricate environment</i></center>
+   <center><b>CFG scale</b>: 7</center>
+</p>
