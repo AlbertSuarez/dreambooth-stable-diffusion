@@ -65,7 +65,7 @@ The only difference is that I used `Subject_Type: dog` for the `caosdelola` use 
 Here are some of the results I got from the model with the used `prompt` and `cfg_scale`:
 
 <p align="center">
-   <img alt="Output 1" src="data/output/output__1.png" width="50%"/>
+   <img alt="Output 1" src="data/output/suaresito/output__1.png" width="50%"/>
 </p>
 <p align="center"><i>
    Highly detailed portrait of suaresito, stephen bliss, unreal engine, fantasy art by greg rutkowski, loish, rhads, ferdinand knab, makoto shinkai and lois van baarle, ilya kuvshinov, rossdraws, tom bagshaw, alphonse mucha, global illumination, radiant light, detailed and intricate environment
@@ -73,7 +73,7 @@ Here are some of the results I got from the model with the used `prompt` and `cf
 <p align="center"><b>CFG scale</b>: 7</p>
 
 <p align="center">
-   <img alt="Output 2" src="data/output/output__2.png" width="50%"/>
+   <img alt="Output 2" src="data/output/suaresito/output__2.png" width="50%"/>
 </p>
 <p align="center"><i>
    suaresito god of the forest, 3 0 years old, rugged, male, gorgeous, detailed face, ottoman, amazing, thighs, flowers, muscular, intricate, highly detailed, digital painting, artstation, concept art, sharp focus, illustration, art by greg rutkowski and alphonse mucha
@@ -81,7 +81,7 @@ Here are some of the results I got from the model with the used `prompt` and `cf
 <p align="center"><b>CFG scale</b>: 10</p>
 
 <p align="center">
-   <img alt="Output 3" src="data/output/output__3.png" width="50%"/>
+   <img alt="Output 3" src="data/output/suaresito/output__3.png" width="50%"/>
 </p>
 <p align="center"><i>
    Portrait of suaresito, scarred! D&D, muscular, fantasy, intricate, elegant, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, art by artgerm and greg rutkowski and alphonse mucha
@@ -89,7 +89,7 @@ Here are some of the results I got from the model with the used `prompt` and `cf
 <p align="center"><b>CFG scale</b>: 13</p>
 
 <p align="center">
-   <img alt="Output 4" src="data/output/output__4.png" width="50%"/>
+   <img alt="Output 4" src="data/output/suaresito/output__4.png" width="50%"/>
 </p>
 <p align="center"><i>
    amazing lifelike award winning pencil illustration of suaresito 90210 trending on art station artgerm Greg rutkowski alphonse mucha cinematic
@@ -97,7 +97,7 @@ Here are some of the results I got from the model with the used `prompt` and `cf
 <p align="center"><b>CFG scale</b>: 7</p>
 
 <p align="center">
-   <img alt="Output 5" src="data/output/output__5.png" width="50%"/>
+   <img alt="Output 5" src="data/output/suaresito/output__5.png" width="50%"/>
 </p>
 <p align="center"><i>
    portrait of suaresito as postman 1 9 9 7. intricate abstract. intricate artwork. by tooth wu, wlop, beeple, dan mumford. octane render, trending on artstation, greg rutkowski very coherent symmetrical artwork. cinematic, hyper realism, high detail, octane render, 8 k, iridescent accents 
@@ -105,7 +105,7 @@ Here are some of the results I got from the model with the used `prompt` and `cf
 <p align="center"><b>CFG scale</b>: 9</p>
 
 <p align="center">
-   <img alt="Output 6" src="data/output/output__6.png" width="50%"/>
+   <img alt="Output 6" src="data/output/suaresito/output__6.png" width="50%"/>
 </p>
 <p align="center"><i>
    a portrait of suaresito as a barbarian, detailed, centered, digital painting, artstation, concept art, donato giancola, joseph christian leyendecker, wlop, boris vallejo, breathtaking, 8 k resolution, extremely detailed, beautiful, establishing shot, artistic, hyperrealistic, beautiful face, octane render 
