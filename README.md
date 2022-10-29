@@ -28,14 +28,19 @@
    docker-compose --profile download up --build
    ```
    
-   4.3. Copy your weights under the `data` folder along with the rest of models. 
+   4.3. Copy your weights under the `data` folder along with the rest of models.
+    
+   4.4. Modify the `docker-compose.yml` adding the path to the custom model using the following argument in the environment variable called `CLI_ARGS`:
+   ```text
+   --ckpt /data/[path_to_your_ckpt]`
+   ```
 
-   4.4. Run the UI:
+   4.5. Run the UI:
    ```bash
    docker-compose --profile hlky up -d --build
    ```
 
-   4.5. Will start the app on [`http://localhost:7860/`](http://localhost:7860/).
+   4.6. Will start the app on [`http://localhost:7860/`](http://localhost:7860/).
 
 5. Enjoy! 🎉
 
