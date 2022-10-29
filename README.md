@@ -111,3 +111,15 @@ Here are some of the results I got from the model with the used `prompt` and `cf
    a portrait of suaresito as a barbarian, detailed, centered, digital painting, artstation, concept art, donato giancola, joseph christian leyendecker, wlop, boris vallejo, breathtaking, 8 k resolution, extremely detailed, beautiful, establishing shot, artistic, hyperrealistic, beautiful face, octane render 
 </i></p>
 <p align="center"><b>CFG scale</b>: 7</p>
+
+### 🧑🏻‍💻 My dog's token
+
+Here are some of the results I got from the model with the used `prompt` and `cfg_scale`, which are much simpler than the previous ones:
+
+<p align="center">
+   <img alt="Output 1" src="data/output/caosdelola/output__1.png" width="50%"/>
+</p>
+<p align="center"><i>
+   caosdelola driking a tequila in mexico
+</i></p>
+<p align="center"><b>CFG scale</b>: 10</p>
