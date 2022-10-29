@@ -90,3 +90,19 @@ Here are some of the results I got from the model with the used `prompt` and `cf
    amazing lifelike award winning pencil illustration of suaresito 90210 trending on art station artgerm Greg rutkowski alphonse mucha cinematic
 </i></p>
 <p align="center"><b>CFG scale</b>: 7</p>
+
+<p align="center">
+   <img alt="Output 5" src="data/output/output__5.png" width="50%"/>
+</p>
+<p align="center"><i>
+   portrait of suaresito as postman 1 9 9 7. intricate abstract. intricate artwork. by tooth wu, wlop, beeple, dan mumford. octane render, trending on artstation, greg rutkowski very coherent symmetrical artwork. cinematic, hyper realism, high detail, octane render, 8 k, iridescent accents 
+</i></p>
+<p align="center"><b>CFG scale</b>: 9</p>
+
+<p align="center">
+   <img alt="Output 6" src="data/output/output__6.png" width="50%"/>
+</p>
+<p align="center"><i>
+   a portrait of suaresito as a barbarian, detailed, centered, digital painting, artstation, concept art, donato giancola, joseph christian leyendecker, wlop, boris vallejo, breathtaking, 8 k resolution, extremely detailed, beautiful, establishing shot, artistic, hyperrealistic, beautiful face, octane render 
+</i></p>
+<p align="center"><b>CFG scale</b>: 7</p>
