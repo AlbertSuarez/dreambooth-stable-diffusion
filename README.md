@@ -4,7 +4,7 @@
 
 ## Usage
 
-1. Generate a dataset like the one found in `data/input` with around 20 images with the following typology:
+1. Generate a dataset like the one found in `data/input` with around 20 images with the following typology (this dataset must contain square images of `512x512` pixels):
     ```text
     60% of foreground images of you
     30% of half body images of you
