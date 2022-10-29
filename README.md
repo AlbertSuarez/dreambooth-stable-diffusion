@@ -2,7 +2,7 @@
 
 🖼 Dreambooth example using my photos based on the [dotCSV video tutorial](https://www.youtube.com/watch?v=rgKBjRLvjLs).
 
-## Usage
+## 📄Usage
 
 1. Generate a dataset like the one found in `data/input` with around 20 images with the following typology (this dataset must contain square images of `512x512` pixels):
     ```text
@@ -38,7 +38,7 @@
 
 5. Enjoy! 🎉
 
-## Training details
+## 🚂Training details
 
 For the training, I used the default parameters from the [dotCSV video tutorial](https://www.youtube.com/watch?v=rgKBjRLvjLs), which are the following:
 
@@ -55,7 +55,7 @@ Training_Steps: 1600
 Seed: 75576
 ```
 
-## Results
+## ☑️Results
 
 Here are some of the results I got from the model with the used `prompt` and `cfg_scale`:
 
