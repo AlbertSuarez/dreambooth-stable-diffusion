@@ -120,6 +120,39 @@ Here are some of the results I got from the model with the used `prompt` and `cf
    <img alt="Output 1" src="data/output/caosdelola/output__1.png" width="50%"/>
 </p>
 <p align="center"><i>
-   caosdelola driking a tequila in mexico
+   caosdelola drinking a tequila in mexico
 </i></p>
 <p align="center"><b>CFG scale</b>: 10</p>
+
+<p align="center">
+   <img alt="Output 2" src="data/output/caosdelola/output__2.png" width="50%"/>
+</p>
+<p align="center"><i>
+   caosdelola painting with pencil
+</i></p>
+<p align="center"><b>CFG scale</b>: 10</p>
+
+<p align="center">
+   <img alt="Output 3" src="data/output/caosdelola/output__3.png" width="50%"/>
+</p>
+<p align="center"><i>
+   caosdelola celebrating Christmas
+</i></p>
+<p align="center"><b>CFG scale</b>: 7</p>
+
+<p align="center">
+   <img alt="Output 4" src="data/output/caosdelola/output__4.png" width="50%"/>
+</p>
+<p align="center"><i>
+   caosdelola going to the space
+</i></p>
+<p align="center"><b>CFG scale</b>: 7</p>
+
+
+<p align="center">
+   <img alt="Output 5" src="data/output/caosdelola/output__5.png" width="50%"/>
+</p>
+<p align="center"><i>
+   caosdelola playing football
+</i></p>
+<p align="center"><b>CFG scale</b>: 7</p>
