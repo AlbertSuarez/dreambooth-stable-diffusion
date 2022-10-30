@@ -125,6 +125,14 @@ Here are some of the results I got from the model with the used `prompt` and `cf
 </i></p>
 <p align="center"><b>CFG scale</b>: 7.5</p>
 
+<p align="center">
+   <img alt="Output 8" src="data/output/suaresito/output__8.png" width="50%"/>
+</p>
+<p align="center"><i>
+   Portrait of suaresito wearing futuristic power armor, fantasy, intricate, highly detailed, digital painting, trending on artstation, sharp focus, illustration, style of Stanley Artgerm and Dan Mumford
+</i></p>
+<p align="center"><b>CFG scale</b>: 7</p>
+
 ### 🧑🏻‍💻 My dog's token
 
 Here are some of the results I got from the model with the used `prompt` and `cfg_scale`, which are much simpler than the previous ones:
