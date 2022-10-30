@@ -133,6 +133,14 @@ Here are some of the results I got from the model with the used `prompt` and `cf
 </i></p>
 <p align="center"><b>CFG scale</b>: 7</p>
 
+<p align="center">
+   <img alt="Output 9" src="data/output/suaresito/output__9.png" width="50%"/>
+</p>
+<p align="center"><i>
+   russian poet suaresito, portrait, highly detailed, digital painting, artstation, concept art, smooth, sharp focus, illustration, cinematic lighting, art by artgerm and greg rutkowski and alphonse mucha 
+</i></p>
+<p align="center"><b>CFG scale</b>: 10</p>
+
 ### 🧑🏻‍💻 My dog's token
 
 Here are some of the results I got from the model with the used `prompt` and `cfg_scale`, which are much simpler than the previous ones:
