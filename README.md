@@ -155,7 +155,16 @@ Here are some of the results I got from the model with the used `prompt` and `cf
 </i></p>
 <p align="center"><b>CFG scale</b>: 7.5</p>
 
-> By far, my favourite prompt.
+> By far, my favourite prompt ⬆️
+
+<p align="center">
+   <img alt="Output 15" src="data/output/suaresito/output__15.png" width="49%"/>
+   <img alt="Output 16" src="data/output/suaresito/output__16.png" width="49%"/>
+</p>
+<p align="center"><i>
+   highly detailed portrait of suaresito, stephen bliss, unreal engine, greg rutkowski, ilya kuvshinov, ross draws, hyung tae and frank frazetta, tom bagshaw, tom whalen, nicoletta ceccoli, mark ryden, earl norem, global illumination, god rays 
+</i></p>
+<p align="center"><b>CFG scale</b>: 7</p>
 
 ### 🧑🏻‍💻 My dog's token
 
