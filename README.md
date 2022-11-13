@@ -142,13 +142,13 @@ Here are some of the results I got from the model with the used `prompt` and `cf
 <p align="center"><b>CFG scale</b>: 10</p>
 
 <p align="center">
-   <img alt="Output 10" src="data/output/suaresito/output__10.png" width="33%"/>
-   <img alt="Output 11" src="data/output/suaresito/output__11.png" width="33%"/>
-   <img alt="Output 12" src="data/output/suaresito/output__12.png" width="33%"/>
+   <img alt="Output 10" src="data/output/suaresito/output__10.png" width="32%"/>
+   <img alt="Output 11" src="data/output/suaresito/output__11.png" width="32%"/>
+   <img alt="Output 12" src="data/output/suaresito/output__12.png" width="32%"/>
 </p>
 <p align="center">
-   <img alt="Output 13" src="data/output/suaresito/output__13.png" width="33%"/>
-   <img alt="Output 14" src="data/output/suaresito/output__14.png" width="33%"/>
+   <img alt="Output 13" src="data/output/suaresito/output__13.png" width="32%"/>
+   <img alt="Output 14" src="data/output/suaresito/output__14.png" width="32%"/>
 </p>
 <p align="center"><i>
    Highly detailed portrait of suaresito, stephen bliss, unreal engine, fantasy art by greg rutkowski, loish, rhads, ferdinand knab, makoto shinkai and lois van baarle, ilya kuvshinov, rossdraws, tom bagshaw, alphonse mucha, global illumination, radiant light, detailed and intricate environment
