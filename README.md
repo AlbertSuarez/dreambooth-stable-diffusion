@@ -149,6 +149,7 @@ Here are some of the results I got from the model with the used `prompt` and `cf
 <p align="center">
    <img alt="Output 13" src="data/output/suaresito/output__13.png" width="32%"/>
    <img alt="Output 14" src="data/output/suaresito/output__14.png" width="32%"/>
+   <img alt="Output 17" src="data/output/suaresito/output__17.png" width="32%"/>
 </p>
 <p align="center"><i>
    Highly detailed portrait of suaresito, stephen bliss, unreal engine, fantasy art by greg rutkowski, loish, rhads, ferdinand knab, makoto shinkai and lois van baarle, ilya kuvshinov, rossdraws, tom bagshaw, alphonse mucha, global illumination, radiant light, detailed and intricate environment
